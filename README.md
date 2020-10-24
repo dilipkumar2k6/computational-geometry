@@ -1,3 +1,12 @@
+# Distance between two points
+https://prismoskills.appspot.com/lessons/2D_and_3D_Puzzles/Chapter_05_-_Distance_between_points.jsp
+https://en.wikipedia.org/wiki/Taxicab_geometry
+![](https://prismoskills.appspot.com/lessons/2D_and_3D_Puzzles/imgs/Manhattan_and_Euclidean.png)
+## Manhattan Distance
+is defined as Math.abs(x2-x1) + Math.abs(y2-y1).
+## Euclidean Distance
+is defined as sqrt ((x2-x1)2 + (y2-y1)2).
+https://leetcode.com/problems/minimum-time-visiting-all-points/
 # Vectors
 - Vectors are the basis of a lot of methods for solving geometry problems. 
 - Formally, a vector is defined by a direction and a magnitude. 
@@ -13,6 +22,10 @@
 - The image below shows the sum of four vectors. 
 - Note that it doesn’t matter which order you add them up in – just like regular addition. 
 ![](http://community.topcoder.com/i/education/geometry01.png)
+
+![](https://cnx.org/resources/f35b4c322e4a11897f3a8370a04c7d10b2586e57/va10a.gif)
+https://cnx.org/contents/Qk0ZZlcl@7/Vector-addition
+
 # Dot Product
 - The addition of vectors is relatively intuitive; a couple of less obvious vector operations are dot and cross products. 
 - The dot product of two vectors is simply the sum of the products of the corresponding elements. 
@@ -58,7 +71,9 @@ where a, b and c are the lengths of the triangle’s sides and s = (a+ b + c)/2.
 abs(x1 y2 − x2 y1 + x2 y3 − x3 y2 + x3 y4 − x4 y3 + x4 y1 − x1 y4)/2
 ```
 https://leetcode.com/problems/check-if-it-is-a-straight-line/
-
+https://leetcode.com/problems/minimum-area-rectangle/
+https://leetcode.com/problems/minimum-area-rectangle-ii/
+https://leetcode.com/problems/minimum-area-rectangle/
 # Concept of orientation 
 ![](assets/point-orientation.png)
 
@@ -78,6 +93,11 @@ Assume 0 as always opposite to found orientation
 # Line Sweep Technique
 ![](https://media.geeksforgeeks.org/wp-content/uploads/SegmentIntersect.png)
 
+https://leetcode.com/problems/meeting-scheduler/
+https://leetcode.com/problems/remove-interval/
+https://leetcode.com/problems/remove-covered-intervals/
+
+
 https://leetcode.com/problems/container-with-most-water/
 https://leetcode.com/tag/line-sweep/
 
@@ -94,4 +114,15 @@ https://www.youtube.com/watch?v=WAyPIMme3Yw&ab_channel=mycodeschool
 https://massivealgorithms.blogspot.com/2014/09/given-n-line-segments-find-if-any-two.html
 
 https://www.topcoder.com/community/competitive-programming/tutorials/line-sweep-algorithms/
+
+https://www.mathsisfun.com/algebra/matrix-determinant.html
+
+
+https://www.mathsisfun.com/algebra/scalar-vector-matrix.html#:~:text=A%20vector%20is%20a%20list,%2C%20one%20or%20more%20columns).
+
+https://www.mathsisfun.com/algebra/vectors-dot-product.html
+
+https://www.mathsisfun.com/algebra/vectors-cross-product.html
+
+https://www.mathsisfun.com/polar-cartesian-coordinates.html
 

@@ -71,9 +71,17 @@ where a, b and c are the lengths of the triangle’s sides and s = (a+ b + c)/2.
 abs(x1 y2 − x2 y1 + x2 y3 − x3 y2 + x3 y4 − x4 y3 + x4 y1 − x1 y4)/2
 ```
 https://leetcode.com/problems/check-if-it-is-a-straight-line/
+
 https://leetcode.com/problems/minimum-area-rectangle/
+
 https://leetcode.com/problems/minimum-area-rectangle-ii/
-https://leetcode.com/problems/minimum-area-rectangle/
+
+https://leetcode.com/problems/rectangle-area/
+
+https://leetcode.com/problems/rectangle-area-ii/
+
+https://leetcode.com/problems/maximal-rectangle/
+
 # Concept of orientation 
 ![](assets/point-orientation.png)
 
@@ -94,15 +102,23 @@ Assume 0 as always opposite to found orientation
 ![](https://media.geeksforgeeks.org/wp-content/uploads/SegmentIntersect.png)
 
 https://leetcode.com/problems/meeting-scheduler/
+
 https://leetcode.com/problems/remove-interval/
+
 https://leetcode.com/problems/remove-covered-intervals/
 
 
 https://leetcode.com/problems/container-with-most-water/
+
 https://leetcode.com/tag/line-sweep/
 
 # Interval
 http://www.dgp.toronto.edu/~jstewart/378notes/22intervals/
+
+# Closest pairs
+https://www.cs.princeton.edu/courses/archive/fall05/cos226/lectures/geosearch
+
+https://raw.githubusercontent.com/mostafa-saad/ArabicCompetitiveProgramming/master/04%20Math/Computational_Geometry_11_Line_Sweep_1_Closest_Pair.cpp
 
 # Reference 
 https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-basic-concepts/

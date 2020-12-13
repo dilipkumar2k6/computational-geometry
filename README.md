@@ -81,6 +81,10 @@ https://leetcode.com/problems/rectangle-area/
 https://leetcode.com/problems/rectangle-area-ii/
 
 https://leetcode.com/problems/maximal-rectangle/
+Number of squares
+https://codeforces.com/contest/425/problem/D
+## Research paper on finding squares/rectangles
+http://www.cs.uu.nl/research/techreps/repo/CS-1989/1989-10.pdf
 
 # Concept of orientation 
 ![](assets/point-orientation.png)
@@ -101,6 +105,8 @@ Assume 0 as always opposite to found orientation
 # Line Sweep Technique
 ![](https://media.geeksforgeeks.org/wp-content/uploads/SegmentIntersect.png)
 
+https://leetcode.com/problems/meeting-rooms/
+https://leetcode.com/problems/meeting-rooms-ii/
 https://leetcode.com/problems/meeting-scheduler/
 
 https://leetcode.com/problems/remove-interval/
@@ -111,6 +117,7 @@ https://leetcode.com/problems/remove-covered-intervals/
 https://leetcode.com/problems/container-with-most-water/
 
 https://leetcode.com/tag/line-sweep/
+
 
 # Interval
 http://www.dgp.toronto.edu/~jstewart/378notes/22intervals/

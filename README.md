@@ -4,6 +4,8 @@ https://en.wikipedia.org/wiki/Taxicab_geometry
 ![](https://prismoskills.appspot.com/lessons/2D_and_3D_Puzzles/imgs/Manhattan_and_Euclidean.png)
 ## Manhattan Distance
 is defined as Math.abs(x2-x1) + Math.abs(y2-y1).
+
+https://leetcode.com/problems/falling-squares/
 ## Euclidean Distance
 is defined as sqrt ((x2-x1)2 + (y2-y1)2).
 https://leetcode.com/problems/minimum-time-visiting-all-points/

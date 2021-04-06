@@ -6,6 +6,32 @@ https://en.wikipedia.org/wiki/Taxicab_geometry
 is defined as Math.abs(x2-x1) + Math.abs(y2-y1).
 
 https://leetcode.com/problems/falling-squares/
+
+https://leetcode.com/problems/campus-bikes/
+## Chebyshev distance
+https://en.wikipedia.org/wiki/Chebyshev_distance
+
+https://codeforces.com/blog/entry/57534
+
+- It is well known that given points (x, y) and you need to calculate the Manhattan distances between them
+- Instead of using |x1-x2|+|y1-y2| 
+- You can first convert all points (x, y) into (x+y, x-y) 
+- And the distances will become max(|x1-x2|, |y1-y2|) (also known as Chebyshev distance)
+- Can this trick apply to higher dimensions?
+    - Transform point (x, y, z) to the point (x + y + z, x + y — z, x — y + z, -x + y + z)
+    - And the distances will become
+        - max(
+            |(x1 - x2) + (y1 - y2) + (z1 - z2)|,
+            
+        )
+
+https://leetcode.com/problems/maximum-of-absolute-value-expression/
+
+https://www.codechef.com/problems/TELEPORT
+
+https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_d
+
+
 ## Euclidean Distance
 is defined as sqrt ((x2-x1)2 + (y2-y1)2).
 https://leetcode.com/problems/minimum-time-visiting-all-points/

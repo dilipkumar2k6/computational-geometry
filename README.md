@@ -155,6 +155,16 @@ https://www.cs.princeton.edu/courses/archive/fall05/cos226/lectures/geosearch
 
 https://raw.githubusercontent.com/mostafa-saad/ArabicCompetitiveProgramming/master/04%20Math/Computational_Geometry_11_Line_Sweep_1_Closest_Pair.cpp
 
+# Rectanlge overlap
+https://leetcode.com/problems/rectangle-overlap/
+
+https://leetcode.com/problems/rectangle-area/
+
+https://leetcode.com/problems/rectangle-area-ii/
+
+https://leetcode.com/problems/perfect-rectangle/
+
+https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
 # Reference 
 https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-basic-concepts/
 

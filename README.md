@@ -134,7 +134,9 @@ Assume 0 as always opposite to found orientation
 ![](https://media.geeksforgeeks.org/wp-content/uploads/SegmentIntersect.png)
 
 https://leetcode.com/problems/meeting-rooms/
+
 https://leetcode.com/problems/meeting-rooms-ii/
+
 https://leetcode.com/problems/meeting-scheduler/
 
 https://leetcode.com/problems/remove-interval/

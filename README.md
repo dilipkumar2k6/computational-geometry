@@ -78,7 +78,9 @@ https://cnx.org/contents/Qk0ZZlcl@7/Vector-addition
 - In 2-D geometry this means that if A is less than 180 degrees clockwise from B, the value is positive. 
 - Another useful fact related to the cross product is that the absolute value of |A||B|Sin(θ) is equal to the area of the parallelogram with two of its sides formed by A and B. 
 - Furthermore, the triangle formed by A, B and the red line in the diagram has half of the area of the parallelogram, so we can calculate its area from the cross product also.
+- Area of polygon using vectors https://www.youtube.com/watch?v=YbZmAqGUkqc
 ![](http://community.topcoder.com/i/education/geometry03.png)
+
 
 # Area of polygon
 - Consider a problem where we are given the vertices of a quadrilateral (a polygon that has four vertices), and our task is to calculate its area.

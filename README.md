@@ -120,6 +120,9 @@ http://www.cs.uu.nl/research/techreps/repo/CS-1989/1989-10.pdf
 ![](assets/point-orientation.png)
 
 # Intersection of two line segments
+
+https://www.youtube.com/watch?v=bbTqI0oqL5U&t=4s
+
 - Draw vector
 - Use case 1:
 ![](assets/line-segments-1.png)
@@ -134,6 +137,10 @@ Assume 0 as always opposite to found orientation
 
 # Line Sweep Technique
 ![](https://media.geeksforgeeks.org/wp-content/uploads/SegmentIntersect.png)
+
+https://www.youtube.com/watch?v=nNtiZM-j3Pk&list=PLubYOWSl9mItBLmB2WiFU0A_WINUSLtGH&index=1&pp=iAQB
+
+https://www.youtube.com/watch?v=0mwScBSTHB4
 
 https://leetcode.com/problems/meeting-rooms/
 
